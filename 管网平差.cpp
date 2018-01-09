@@ -54,6 +54,7 @@ int main()
 	}
 
 	system("pause");
+	cout << "Copyright@kttor" << endl;
 }
 void opp(double &q1, double &q2, double x, double y)
 {
@@ -90,6 +91,8 @@ void op(double &h1, double &h2, double qgd[], double si[])
 			i++;
 		}
 		cout << "===================================================" << endl;
+	
+	
 
 	
 
